@@ -1,10 +1,7 @@
-
-
-
-
-
-
-
+Trabajo grupal.
+¿Como vamos a elaborar una gran Pizza?
+¡Aquí vamos!
+Paso 1:
 
 1 - Cook your pizza on a preheated surface. ...
 2 - Cook your pizza at a very high temperature. ...
@@ -12,3 +9,4 @@
 4 - Think outside the box with your sauces. ...
 5 - Don't overcook your protein. ...
 6 - Get creative with your toppings.
+
