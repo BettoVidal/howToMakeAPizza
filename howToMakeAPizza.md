@@ -3,6 +3,9 @@ Trabajo grupal.
 ¡Aquí vamos!
 Paso 1:
 
+
+
+Tips:
 1 - Cook your pizza on a preheated surface. ...
 2 - Cook your pizza at a very high temperature. ...
 3 - Cook your pizza on parchment paper. ...
